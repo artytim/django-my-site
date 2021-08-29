@@ -111,3 +111,5 @@ static_collected
 
 # misc
 .DS_Store
+uploads/posts/*.jpg
+uploads/posts/*.png
